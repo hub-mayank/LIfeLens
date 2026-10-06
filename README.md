@@ -9,6 +9,14 @@ It offers dedicated paths for three major decision categories:
 *   💼 **Job Offer** (Role evaluations, compensation packaging, skills matching)
 *   🚀 **Startup** (Idea viability checks, sector analysis, risk tolerance)
 
+### Team & my contribution
+
+Built for the USAII® Global AI Hackathon 2026 — College Track Finalist (ranked 43/424). This repository is a fork of the team repo ([adityapathak-dev/LIfeLens](https://github.com/adityapathak-dev/LIfeLens)).
+
+**Team:** Aditya Pathak, Parth Sarthi, Tejas Dhadich, Mayank Rajput
+
+**My role — Integration Lead:** built the React (Vite) frontend — staggered intake forms, live progress tracking and real-time exam discovery UI — wired to the stateless Express REST API.
+
 ---
 
 ## 🏗️ System Architecture
